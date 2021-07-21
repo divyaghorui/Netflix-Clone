@@ -5,7 +5,8 @@ To use it, download all the files and folders given, and place them in a single 
 
 The window can even be resized, since the CSS code has the media queries for it.
 
-These are some of the screenshots of the webpage 
+These are some of the screenshots of the webpage : 
+
 1. 
 ![image](https://user-images.githubusercontent.com/68852165/126539141-499421a2-2c95-40d6-a409-a32d18955540.png)
 
